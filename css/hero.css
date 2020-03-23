@@ -6,7 +6,8 @@ body{
 }
 
 header{
-	background-color: #1ED105;
+	background: url("C/Users/Lucian/Desktop/Cartoon-hero/img/background.jpg");
+	background-color: #1ed105;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -15,7 +16,7 @@ header{
 h1, h2{
 	font-family: 'Roboto', sans-serif;
 }
-
+/* Header*/
 header h1{
 	color: white;
 	font-family: Helvetica, Arial, sans-serif;
@@ -26,7 +27,7 @@ header img{
 	border-radius: 1000px;
 	width: 300px;
     height: 300px;
-	border: 20px solid #F6AC07 ;
+	border: 20px solid white ;
 }
 main{
 	max-width: 1080px;
@@ -42,7 +43,7 @@ main img{
 h2{
 	font-size: 30px;
 	color: #F6AC07
-	
+
 }
 a{
 	color: #F6AC07;
